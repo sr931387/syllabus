@@ -19,7 +19,7 @@ permalink: /
 **Instructor: **Dr. ××**   
 **Office**: Building Number  
 **Email**:  
-
+**Twitter**: 
 **Phone**:  
 **Office Hours**: Date, Time, Location  
 
