@@ -134,7 +134,7 @@ _Provide a short description of the learning activities and assessments that wil
 
 * _The quality of all written assignments and presentation should be evaluated using a rubric._
 
-* _It is important to provide information on the deadlines for any learning activities.  Including a table with all of the due dates can help students plan out their semester.  This can also be included in the calendar feature of the learning management system._
+* _It is important to provide information on the deadlines for any learning activities.  Including a table with all of the due dates can help students plan out their term.  This can also be included in the calendar feature of the learning management system._
  
 
 ### Final Grade:
