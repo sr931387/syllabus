@@ -16,7 +16,7 @@ permalink: /
 **Semester Year**
 
 
-**Instructor: **Dr. Robison**   
+**Instructor: Dr. Robison**   
 **Office**: Building Number  
 **Email**:  
 **Twitter**: 
